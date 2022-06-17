@@ -1,4 +1,4 @@
-package org.soujava.metadata.processor;
+package com.jmoordbnativeapi.jmoordbnativeprocessor;
 
 import com.jmoordbnativeapi.metadata.ClassMappings;
 import com.jmoordbnativeapi.metadata.EntityMetadata;
